@@ -1,3 +1,3 @@
 # cv
-~ Just a Personal Website
-` With All my Details
+***Just a Personal Website***
+~ With All my Details ~
